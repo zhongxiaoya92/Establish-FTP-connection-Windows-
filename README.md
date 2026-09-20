@@ -1,4 +1,4 @@
-1.环境部署
+1.服务端环境部署
 <img width="1372" height="928" alt="IMG_20260919_150701" src="https://github.com/user-attachments/assets/37650c6d-2637-4407-84b0-8c9bcfaaaedf" />
 
 终端输ipconfig回车复制ip地址
@@ -19,13 +19,20 @@ ip地址填刚复制的，端口默认21，自启动打开，证书可选无
 身份验证授权权限全选
 至此搭建完成
 
-3.另一端访问
-(1)windows在资源管理器地址处输ftp：//(ip地址)即可
+3.客户端访问
+(1)<img width="1269" height="940" alt="image" src="https://github.com/user-attachments/assets/4f6d0963-94f0-4b8d-acf8-7e482956713e" />
+
+windows在资源管理器地址处输ftp://(ip地址)/即可
 
 (2)移动端需安装支持ftp网络存储的文件管理器(e.g.Mt管理器)
-打开Mt管理器点左上角再点右上角添加ftp，主机填同样的ip，其余保持默认即可
-<img width="1440" height="3168" alt="Screenshot_20260919_151136" src="https://github.com/user-attachments/assets/34c38b6b-bd84-4217-9d69-95799f82c9d3" />
+
 <img width="1440" height="1155" alt="Screenshot_20260919_150815" src="https://github.com/user-attachments/assets/7445e926-11ff-4a18-84c8-89602df85b61" />
+<img width="1440" height="3168" alt="Screenshot_20260919_151136" src="https://github.com/user-attachments/assets/34c38b6b-bd84-4217-9d69-95799f82c9d3" />
+
+打开Mt管理器点左上角再点右上角添加ftp，主机填同样的ip，其余保持默认即可
 <img width="1440" height="1364" alt="IMG_20260920_002712" src="https://github.com/user-attachments/assets/47e0ee57-cd11-49f9-9a7c-853db58306c7" />
+
+之后再次点击左上角通过网络连接至服务端
 <img width="1440" height="3168" alt="Screenshot_20260920_002543" src="https://github.com/user-attachments/assets/dc50deb9-29ef-4a0d-a768-fcd605dfc74c" />
+单个文件长按即可上传，多文件可右滑单个文件后进行复选，或对首尾文件右滑选取中间文件
 
