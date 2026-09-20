@@ -1,4 +1,5 @@
 一、服务端配置
+
 1.环境部署
 <img width="1372" height="928" alt="IMG_20260919_150701" src="https://github.com/user-attachments/assets/37650c6d-2637-4407-84b0-8c9bcfaaaedf" />
 
@@ -25,9 +26,9 @@ ip地址填刚复制的，端口默认21，自启动打开，证书可选无
 至此搭建完成
 
 二、客户端访问
-(1)<img width="1269" height="940" alt="image" src="https://github.com/user-attachments/assets/4f6d0963-94f0-4b8d-acf8-7e482956713e" />
+<img width="1269" height="940" alt="image" src="https://github.com/user-attachments/assets/4f6d0963-94f0-4b8d-acf8-7e482956713e" />
 
-windows在资源管理器地址处输ftp://(ip地址)/即可
+(1)windows在资源管理器地址处输ftp://(ip地址)/即可
 
 (2)移动端需安装支持ftp网络存储的文件管理器(e.g.Mt管理器)
 
