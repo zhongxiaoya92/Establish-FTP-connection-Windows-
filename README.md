@@ -34,5 +34,6 @@ windows在资源管理器地址处输ftp://(ip地址)/即可
 
 之后再次点击左上角通过网络连接至服务端
 <img width="1440" height="3168" alt="Screenshot_20260920_002543" src="https://github.com/user-attachments/assets/dc50deb9-29ef-4a0d-a768-fcd605dfc74c" />
+
 单个文件长按即可上传，多文件可右滑单个文件后进行复选，或对首尾文件右滑选取中间文件
 
