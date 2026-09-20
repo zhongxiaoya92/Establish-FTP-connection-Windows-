@@ -1,4 +1,5 @@
-1.服务端环境部署
+一、服务端配置
+1.环境部署
 <img width="1372" height="928" alt="IMG_20260919_150701" src="https://github.com/user-attachments/assets/37650c6d-2637-4407-84b0-8c9bcfaaaedf" />
 
 终端输ipconfig回车复制ip地址
@@ -6,6 +7,10 @@
 <img width="415" height="418" alt="image" src="https://github.com/user-attachments/assets/4a4eb8a4-5ba4-484d-8502-4307588f760e" />
 
 Win + R输optionalfeatures回车，启用Internet Information Services、FTP服务器、Web管理工具
+
+<img width="1269" height="674" alt="image" src="https://github.com/user-attachments/assets/bfc88ccd-f6b2-432f-b586-ab5229d63cca" />
+防火墙需开启的在控制面版对应路径允许ftp服务器进行通信
+
 
 
 2.添加FTP站点
@@ -19,7 +24,7 @@ ip地址填刚复制的，端口默认21，自启动打开，证书可选无
 身份验证授权权限全选
 至此搭建完成
 
-3.客户端访问
+二、客户端访问
 (1)<img width="1269" height="940" alt="image" src="https://github.com/user-attachments/assets/4f6d0963-94f0-4b8d-acf8-7e482956713e" />
 
 windows在资源管理器地址处输ftp://(ip地址)/即可
